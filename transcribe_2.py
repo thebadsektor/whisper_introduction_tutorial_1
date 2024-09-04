@@ -5,7 +5,6 @@ def transcribe(file_path, model=None, language=None, verbose=False):
     try:
         # TODO#2 - Import Libraries and Check availabity of GPU
 
-
         # TODO#3 - Establish Access to Audio File
         
         # TODO#4 - Perform transcription and store to `result`
