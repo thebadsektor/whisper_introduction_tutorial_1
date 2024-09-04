@@ -1,6 +1,5 @@
 # TODO#1 - Import Libraries and Check availability of GPU
 
-
 def transcribe(file_path, model=None, language=None, verbose=False):    
     try:
         # TODO#2 - Import Libraries and Check availabity of GPU
